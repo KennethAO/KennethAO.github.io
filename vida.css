@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+h1{
+    color:darkcyan;
+}
+img{
+    width: 50%;
+    height: auto;
+}
+h2{
+    color:chocolate;
+}
+p{
+    color:white;
+}
+.vida_vivida{
+    color:red;
+}
+.ventajas{
+    color:aquamarine;
+}
+.desventajas{
+    color:lightseagreen;
+}
+.imgdepre{
+    width: 30%;
+}
+a{
+    color:darkcyan;
+    text-decoration: none;
+}
+.tabla1{
+    color:white;
+    width: 800px;
+}
+
+.tabla1 thead{
+    color:aquamarine;
+}
+
+.tabla1 tbody{
+    color:aqua;
+    text-align: center;
+}
